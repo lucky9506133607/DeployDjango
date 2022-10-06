@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'f7h$#)wmdo-26)8h42j#q*8dhh2gujt0_$odb=n81$+2yd(v5-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['180.211.96.18','vacad22.herokuapp.com']
 
